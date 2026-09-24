@@ -55,3 +55,7 @@ back later. The privacy page says exactly what the relay can and cannot see:
 
 [den.forgesworn.dev/support](https://den.forgesworn.dev/support). A real
 person reads that address.
+
+## Licence
+
+MIT.

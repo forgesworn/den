@@ -3,8 +3,10 @@
 Den is a work timer, built for ADHD and autistic adults. Work in your own lengths.
 
 This is the free, directly signed Android build, for GrapheneOS and anyone
-who installs apps without a store. It is the same app as the paid one on the
-App Store and, when it arrives there, Google Play. There is no account, no
+who installs apps without a store. It is the same app as the paid one on
+[Google Play](https://play.google.com/store/apps/details?id=health.vitark.den)
+and, when it arrives there, the App Store. Play and this build are signed with
+different keys, so one cannot update over the other. There is no account, no
 advertising, no analytics and nothing leaves the phone unless you turn on
 encrypted sync.
 

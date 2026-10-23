@@ -55,8 +55,10 @@ back later. The privacy page says exactly what the relay can and cannot see:
 
 ## Support
 
-[den.forgesworn.dev/support](https://den.forgesworn.dev/support). A real
-person reads that address.
+[den.forgesworn.dev/support](https://den.forgesworn.dev/support) for the
+open-source edition. If you installed Den from an app store, use the store
+app's [privacy](https://z4p.app/den/privacy/) and
+[support](https://z4p.app/den/support/) pages.
 
 ## Licence
 

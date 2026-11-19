@@ -1,0 +1,13 @@
+# Vitark Den for Android
+
+> Signed Android distribution of Vitark Den for direct installation.
+
+## Documentation
+
+- [Install Vitark Den](https://github.com/forgesworn/den/blob/main/README.md): Download and check the published Android build.
+
+## ForgeSworn ecosystem
+
+- [ForgeSworn library guide](https://forgesworn.dev/llms.txt): Find related libraries, tools and integration guides by task and runtime.
+- [ForgeSworn on GitHub](https://github.com/forgesworn): Browse the organisation’s public repositories.
+- [Project source](https://github.com/forgesworn/den): Canonical source repository, documentation and release information.
